@@ -26,7 +26,7 @@
 
   - "6. Detailed System Design":
       - "6.1 Module Descriptions":
-          - "6.1.1 001_Ir.ActivityStream": solution_documentation/001_Ir.ActivityStream/001_Ir.ActivityStream.md
+          - "6.1.1 Solution_A": solution_documentation/Solution_A/Solution_A.md
       - "6.2 APIs and Services":
           - "6.2.1 API Endpoints": apis/api_endpoints.md
           - "6.2.2 Authentication and Authorization": apis/authentication_authorization.md
